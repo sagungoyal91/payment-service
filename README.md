@@ -1,2 +1,2 @@
-# customer-service
-Hotel Reservation System- customer-service
+# payment-service
+Hotel Reservation System- payment-service
